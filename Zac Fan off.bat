@@ -1,0 +1,1 @@
+python tuya_command.py --device_name "Zac Fan" --switch 0
